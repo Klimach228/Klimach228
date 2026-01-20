@@ -250,4 +250,3 @@ int HashString(const void *key);
 #define TABLE_MIN_SIZE 10
 
 #endif // HASH_TABLE_H
-
